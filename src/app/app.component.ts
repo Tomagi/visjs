@@ -36,7 +36,6 @@ export class AppComponent implements OnInit {
 
     let options: Options = {
       layout: {
-        randomSeed: false,
         improvedLayout: true,
         hierarchical: {
           enabled: true,

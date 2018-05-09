@@ -1,0 +1,316 @@
+{
+    "outgoing_devices": [
+        {
+            "policy": "",
+            "vlan": 17,
+            "firstSeen": 1514849560611,
+            "name": "",
+            "iconType": "general_md",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "192.70.52.133",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": true,
+            "image": "<url>",
+            "ip": "192.70.52.133",
+            "lastSeen": 1515643448404,
+            "mac": ""
+        },
+        {
+            "policy": "",
+            "vlan": 17,
+            "firstSeen": 1514837657139,
+            "name": "",
+            "iconType": "general_md",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "192.70.52.54",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": true,
+            "image": "<url>",
+            "ip": "192.70.52.54",
+            "lastSeen": 1517489053949,
+            "mac": ""
+        },
+        {
+            "policy": "",
+            "vlan": 17,
+            "firstSeen": 1515517590965,
+            "name": "",
+            "iconType": "workstation",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "10.12.130.32",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": false,
+            "image": "<url>",
+            "ip": "10.12.130.32",
+            "lastSeen": 1517482671049,
+            "mac": "9C.93.4E.76.e3.0f"
+        },
+        {
+            "policy": "",
+            "vlan": 139,
+            "firstSeen": 1514835210357,
+            "name": "server2261.trewta.co.il.",
+            "iconType": "pacs",
+            "site": "Main Site",
+            "vendor": "Inter Systems",
+            "type": "imaging server",
+            "category": "Imaging",
+            "risk": {
+                "priorityOrder": 1,
+                "description": "Device Ensweb.server1.co.il. accepting connections on vulnerable SMB port",
+                "ids": [
+                    "open_ports_445"
+                ],
+                "status": "Low"
+            },
+            "deviceId": "10.12.193.180",
+            "speakMedical": true,
+            "model": "Ensemble",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": false,
+            "image": "<url>",
+            "ip": "10.12.193.180",
+            "lastSeen": 1517487985253,
+            "mac": "AC.16.2D.9c.f1.a7"
+        },
+        {
+            "policy": "",
+            "vlan": 87,
+            "firstSeen": 1515513390702,
+            "name": "",
+            "iconType": "workstation",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "10.12.130.110",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": false,
+            "image": "<url>",
+            "ip": "10.12.130.110",
+            "lastSeen": 1517482828347,
+            "mac": "9C.93.4E.76.e3.14"
+        }
+    ],
+    "incoming_devices": [
+        {
+            "policy": "",
+            "vlan": 17,
+            "firstSeen": 1514849560611,
+            "name": "",
+            "iconType": "general_md",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "192.70.52.133",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": true,
+            "image": "<url>",
+            "ip": "192.70.52.133",
+            "lastSeen": 1515643448404,
+            "mac": ""
+        },
+        {
+            "policy": "",
+            "vlan": "",
+            "firstSeen": 1514835735709,
+            "name": "",
+            "iconType": "workstation",
+            "site": "Main Site",
+            "vendor": "",
+            "type": "",
+            "category": "",
+            "risk": {
+                "description": "No risk found",
+                "ids": [],
+                "status": ""
+            },
+            "deviceId": "10.12.14.4",
+            "speakMedical": false,
+            "model": "",
+            "alert": {
+                "description": "Normal activity",
+                "status": "Normal",
+                "id": []
+            },
+            "compactCounter": 0,
+            "isInternetAllowed": false,
+            "isInternet": false,
+            "image": "<url>",
+            "ip": "10.12.14.4",
+            "lastSeen": 1517487242932,
+            "mac": ""
+        }
+    ],
+    "incoming_protocols": [
+        {
+            "portType": "non_medical",
+            "name": "TCP/21 (ftp)",
+            "port": 21,
+            "isOpen": true,
+            "highProtocol": "ftp",
+            "lowProtocol": "TCP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "TCP/22 (ssh)",
+            "port": 22,
+            "isOpen": true,
+            "highProtocol": "ssh",
+            "lowProtocol": "TCP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "TCP/23 (telnet)",
+            "port": 23,
+            "isOpen": true,
+            "highProtocol": "telnet",
+            "lowProtocol": "TCP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "TCP/135 (loc-srv)",
+            "port": 135,
+            "isOpen": true,
+            "highProtocol": "loc-srv",
+            "lowProtocol": "TCP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "UDP/137 (netbios)",
+            "port": 137,
+            "isOpen": true,
+            "highProtocol": "netbios",
+            "lowProtocol": "UDP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "UDP/138 (browser)",
+            "port": 138,
+            "isOpen": true,
+            "highProtocol": "browser",
+            "lowProtocol": "UDP",
+            "risk": {}
+        },
+        {
+            "portType": "non_medical",
+            "name": "TCP/445",
+            "port": 445,
+            "isOpen": true,
+            "highProtocol": "",
+            "lowProtocol": "TCP",
+            "risk": {
+                "description": "Device MxView accepting connections on vulnerable SMB port",
+                "status": "Low"
+            }
+        }
+    ],
+    "incoming_links": [
+        {
+            "to": "UDP/137 (netbios)",
+            "risks": [],
+            "from": "10.12.14.4"
+        },
+        {
+            "to": "TCP/23 (telnet)",
+            "risks": [],
+            "from": "192.70.52.133"
+        },
+        {
+            "to": "TCP/21 (ftp)",
+            "risks": [],
+            "from": "192.70.52.133"
+        },
+        {
+            "to": "UDP/138 (browser)",
+            "risks": [],
+            "from": "10.12.14.4"
+        }
+    ]
+}
